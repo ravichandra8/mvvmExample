@@ -1,0 +1,5 @@
+
+squid:S1186>"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Âí¾¤ûÿÿÿÿ
+gsquid:CommentedOutCodeLine7"<This block of commented-out lines of code should be removed.(É‹¹ˆÿÿÿÿÿ
+^squid:S1192 "HDefine a constant instead of duplicating this literal "execute" 3 times.(ò¥¶m
+Nsquid:S25895"7Remove this expression which always evaluates to "true"(òýÄâ
